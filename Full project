@@ -1,0 +1,10 @@
+trading-robot-dashboard/
+├── app.py
+├── requirements.txt
+├── Dockerfile
+├── railway.json
+├── render.yaml
+├── sample_data.csv          # 6 months of BTC/USDT 1h candles
+└── assets/
+    ├── hero.png
+    └── demo.gif
